@@ -145,28 +145,3 @@ Example:
 
 ---
 
-## 🚀 Future Enhancements
-
-- Online Payment Gateway
-- Wishlist
-- Product Reviews & Ratings
-- Email Notifications
-- Order Tracking
-- Invoice Generation
-- Discount Coupons
-- Dark Mode
-
----
-
-## 🎯 Learning Outcomes
-
-Through this project, I gained practical experience in:
-
-- Full Stack Web Development
-- CRUD Operations
-- User Authentication
-- Session Management
-- Database Design
-- Responsive Web Design
-- E-commerce Workflow
-- PHP & MySQL Integration
